@@ -1,0 +1,5 @@
+Summary:
+The paper "Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition" introduces a specialized dataset created to assist in training models for voice-activated systems. 
+The dataset contains over 100,000 one-second utterances of 35 common words, recorded by more than 2,600 speakers. 
+Designed for small, energy-efficient keyword spotting models, the paper highlights its importance for real-time voice interfaces such as smart home devices. 
+The dataset was carefully curated to include various accents and noisy environments, making it ideal for developing robust, on-device speech recognition technologies.
