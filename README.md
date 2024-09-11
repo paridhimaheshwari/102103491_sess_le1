@@ -1,11 +1,13 @@
 # 102103491_sess_le1
 
 ## Snippets 
-![WhatsApp Image 2024-09-11 at 15 56 50](https://github.com/user-attachments/assets/6f381c72-cb60-4a1a-a762-1dbb4889cec8)
+<img width="1227" alt="Screenshot 2024-09-11 at 4 02 06 PM" src="https://github.com/user-attachments/assets/e516a133-61a3-4e84-9ee8-ac49d6b5e87f">
+<img width="1267" alt="Screenshot 2024-09-11 at 4 03 27 PM" src="https://github.com/user-attachments/assets/2218c53e-95cf-40c3-8260-f58abda3557f">
+<img width="1231" alt="Screenshot 2024-09-11 at 4 03 57 PM" src="https://github.com/user-attachments/assets/29a4c11e-3d8d-4b18-8eed-5f8fb270ba60">
+<img width="1234" alt="Screenshot 2024-09-11 at 4 04 36 PM" src="https://github.com/user-attachments/assets/3a6363d8-14ef-4eab-b08f-75e8e14fdc90">
+<img width="1240" alt="Screenshot 2024-09-11 at 4 05 03 PM" src="https://github.com/user-attachments/assets/c9cda9d2-b17a-4d43-8e8a-c7386e268923">
 
-![WhatsApp Image 2024-09-11 at 15 56 47 (1)](https://github.com/user-attachments/assets/ba8b8195-7009-4fac-8c8b-32680d09e616)
 
-![WhatsApp Image 2024-09-11 at 15 56 47 (2)](https://github.com/user-attachments/assets/e00fa2ee-b4c5-45b3-85e1-4788e9f00aa8)
 
 ### The report is attached in the repository itself
 
