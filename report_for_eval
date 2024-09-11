@@ -38,3 +38,6 @@ Model Evaluation: Once training is completed, evaluate the model's accuracy, los
 Further Optimization: Fine-tune hyperparameters such as learning rate and batch size for better performance and potentially introduce early stopping to prevent overfitting.
 
 This project successfully prepared a custom dataset of 30 recordings for each of the 35 speech commands and set up a CNN classifier for fine-tuning. However, due to hardware constraints, the fine
+
+-----------------------------
+
